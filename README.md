@@ -1,7 +1,7 @@
 Ocho
 ======
 
-A fast, light, open-source cryptocoin exchange based on Node.js and express.js
+A fast and lightweight exchange based on Node.js and express.js. Currently a development demo, not suitable for real usage.
 
 ------
 
@@ -27,11 +27,3 @@ Features:
   * RESTful API
   * SPDY support 
   * Salted passwords via bcrypt
-
-Todo:
-
-  * Coin integration
-  * Transaction recording 
-  * Enterprise grade logging
-  * Online administration
-  * Customizable fee schedule
